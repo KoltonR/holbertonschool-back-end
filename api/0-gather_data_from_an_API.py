@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 """Script that prints specific information from an API"""
+import json
 import requests
 import sys
 
